@@ -24,8 +24,8 @@ and then explains how to read the result.
 ## Running
 
 Keep the CSVs in the same folder as the notebooks. Run the **Setup** cell at the top of each notebook
-first (and again after restarting the kernel). The notebooks ship without saved outputs, so run each
-cell yourself and compare the result with the notes.
+first (and again after restarting the kernel). The notebooks are saved with their outputs, so you can read
+them on GitHub first — then re-run each cell yourself and compare your results.
 
 Requirements: `pandas numpy matplotlib seaborn scipy scikit-learn`
 
