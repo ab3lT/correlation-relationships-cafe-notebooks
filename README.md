@@ -36,3 +36,7 @@ pip install pandas numpy matplotlib seaborn scipy scikit-learn
 ## Note
 
 All data is synthetic and every relationship is engineered on purpose; the generator contains no real people or events.
+
+## License
+
+Released under the [MIT License](LICENSE). You are free to use, adapt and share these materials.
