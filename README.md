@@ -16,10 +16,12 @@ data_dictionary.md               # every column + which notebook uses it
 2_covariance_correlation.ipynb   # covariance, Pearson's r, limitations
 3_causation.ipynb                # confounding, observational vs experimental, spurious correlation
 4_regression_ml.ipynb            # regression + feature selection
+5_exercises.ipynb                # practice exercises for notebooks 1–4, with hints and solutions
 ```
 
 Work through the notebooks in order. Each one explains the idea, gives the formulas, runs the code,
 and then explains how to read the result.
+Finish with `5_exercises.ipynb` to practise — try each exercise before opening its hint or solution.
 
 ## Running
 
